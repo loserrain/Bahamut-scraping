@@ -4,7 +4,7 @@
 
 感謝以下教學才生出這個專案
 參考網址:
-scrapy中文教學
-https://ithelp.ithome.com.tw/articles/10209570
-scrapy匯出教學
-https://www.learncodewithmike.com/2021/01/scrapy-export-csv-files.html
+scrapy中文教學<br />
+https://ithelp.ithome.com.tw/articles/10209570<br />
+scrapy匯出教學<br />
+https://www.learncodewithmike.com/2021/01/scrapy-export-csv-files.html<br />
