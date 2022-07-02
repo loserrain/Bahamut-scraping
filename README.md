@@ -3,7 +3,7 @@
 可以設定要爬多少頁
 
 感謝以下教學才生出這個專案
-參考網址:
+參考網址:<br />
 scrapy中文教學<br />
 https://ithelp.ithome.com.tw/articles/10209570<br />
 scrapy匯出教學<br />
